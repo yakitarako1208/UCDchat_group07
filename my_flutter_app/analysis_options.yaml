@@ -1,0 +1,17 @@
+# analysis_options.yaml
+
+linter:
+  rules:
+    - always_declare_return_types
+    - prefer_single_quotes
+    - unnecessary_new
+    - avoid_print
+    - prefer_const_constructors
+    - type_annotate_public_apis
+
+analyzer:
+  errors:
+    unused_import: warning
+    dead_code: warning
+    missing_return: error
+    unnecessary_getters_setters: info
