@@ -18,7 +18,10 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text('Counter: $_counter', style: Theme.of(context).textTheme.headline6),
+            Text(
+              'Counter: $_counter',
+              style: Theme.of(context).textTheme.titleLarge, // ← headline6 を titleLarge に変更
+            ),
             const SizedBox(height: 12),
             ElevatedButton(
               onPressed: () {
