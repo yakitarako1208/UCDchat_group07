@@ -1,1 +1,2 @@
-#　UCDchat_group07
+# UCDchat_group07
+figmaじゃカメラ使えないから、ちょいと作ってみる
