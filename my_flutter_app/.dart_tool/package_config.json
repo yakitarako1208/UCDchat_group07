@@ -69,7 +69,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/packages/flutter",
+      "rootUri": "file:///Users/yakitarako/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -81,13 +81,13 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/packages/flutter_test",
+      "rootUri": "file:///Users/yakitarako/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/packages/flutter_web_plugins",
+      "rootUri": "file:///Users/yakitarako/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -207,7 +207,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/yakitarako/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -279,8 +279,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.10.4",
-  "flutterRoot": "file:///Users/yakitarako/fvm/versions/3.38.1",
-  "flutterVersion": "3.38.5",
+  "generatorVersion": "3.10.1",
+  "flutterRoot": "file:///Users/yakitarako/flutter",
+  "flutterVersion": "3.38.3",
   "pubCache": "file:///Users/yakitarako/.pub-cache"
 }
