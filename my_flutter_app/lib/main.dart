@@ -8,8 +8,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'My Flutter App',
-      theme: ThemeData(primarySwatch: Colors.blue),
+      title: 'Hakodate Chat',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        primaryColor: const Color(0xFF1FA3D0),
+        colorScheme: ColorScheme.fromSwatch().copyWith(secondary: const Color(0xFF23A9D6)),
+        scaffoldBackgroundColor: const Color(0xFFF5F7F9),
+      ),
       home: const HomePage(),
     );
   }

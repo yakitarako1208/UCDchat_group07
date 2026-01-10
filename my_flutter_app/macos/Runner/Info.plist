@@ -28,11 +28,5 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<!-- ...existing code... -->
-	<key>NSCameraUsageDescription</key>
-	<string>カメラを使って写真を撮影します。</string>
-	<!-- カメラで音声も使うなら追加 -->
-	<key>NSMicrophoneUsageDescription</key>
-	<string>録音のためにマイクを使用します。</string>
 </dict>
 </plist>

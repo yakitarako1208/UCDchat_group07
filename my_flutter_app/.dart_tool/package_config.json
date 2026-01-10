@@ -14,6 +14,36 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "camera",
+      "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/camera-0.10.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "camera_android",
+      "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/camera_android-0.10.10+14",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "camera_avfoundation",
+      "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.22+8",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "camera_platform_interface",
+      "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/camera_platform_interface-2.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "camera_web",
+      "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/camera_web-0.3.5+3",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
       "name": "characters",
       "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/characters-1.4.0",
       "packageUri": "lib/",
@@ -69,7 +99,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/yakitarako/flutter/packages/flutter",
+      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -81,13 +111,13 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/yakitarako/flutter/packages/flutter_test",
+      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/yakitarako/flutter/packages/flutter_web_plugins",
+      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -207,7 +237,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/yakitarako/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/yakitarako/fvm/versions/3.38.1/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -228,6 +258,12 @@
       "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/stream_channel-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "3.3"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///Users/yakitarako/.pub-cache/hosted/pub.dev/stream_transform-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
     },
     {
       "name": "string_scanner",
@@ -279,8 +315,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.10.1",
-  "flutterRoot": "file:///Users/yakitarako/flutter",
-  "flutterVersion": "3.38.3",
+  "generatorVersion": "3.10.4",
+  "flutterRoot": "file:///Users/yakitarako/fvm/versions/3.38.1",
+  "flutterVersion": "3.38.5",
   "pubCache": "file:///Users/yakitarako/.pub-cache"
 }
